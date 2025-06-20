@@ -9,10 +9,10 @@ Celem ćwiczenia było zbudowanie aplikacji typu SPA (Single Page Application) z
 ## Wygląd aplikacji 
 
 ### Strona "About" 
-![About](img/s(2).png) 
+![About](img/s_(2).png) 
 
 ### Lista studentów 
-![Students](img/s(1).png) 
+![Students](img/s_(1).png) 
 
 ### Szczegóły studenta 
-![Student Details](img/s(4).png) 
+![Student Details](img/s_(3).png) 
