@@ -1,0 +1,26 @@
+# Build output folders
+bin/
+obj/
+dist/
+out-tsc/
+
+# Node modules
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-error.log*
+
+# Visual Studio / VSCode
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Mac / Windows system files
+.DS_Store
+Thumbs.db
+
+# Angular cache
+.angular/cache/
